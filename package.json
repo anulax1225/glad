@@ -1,0 +1,14 @@
+{
+    "name": "Glad",
+    "owner": "anulax1225",
+    "git": "https://github.com/anulax1225/bakatools",
+    "links": 
+    [
+        "glad"
+    ],
+    "includes": 
+    [
+        "glad"
+    ],
+    "packages":[]
+}
