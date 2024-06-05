@@ -8,8 +8,6 @@ project "GLAD"
 
 	includedirs { "%{prj.location}/include" }
 
-	buildoptions { "-fPIC" }
-
 	files
 	{
 		"%{prj.location}/src/glad.c",
